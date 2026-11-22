@@ -1,6 +1,6 @@
 # PageStreak: Spec
 
-**Read a little every day** · #7 of 33 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: New (Claude)
+**Read a little every day** · #7 of 32 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: New (Claude)
 
 ## One-liner
 
