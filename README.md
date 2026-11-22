@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | When a book is finished, prompt for the next one |
 | Cadence | Daily |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Page-flip on every log
+- A bookworm character gains glasses, a scarf and a reading lamp at milestones
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
