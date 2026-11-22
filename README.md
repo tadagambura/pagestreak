@@ -42,6 +42,8 @@ Readers who want to read more, especially anyone with a yearly book goal.
 | Premium | £1.99/month or £14.99 lifetime: stats, challenges, themes, recap styles |
 | Affiliate | Book links, clearly labelled |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
