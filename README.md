@@ -58,12 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | When a book is finished, prompt for the next one |
 | Cadence | Daily |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Page-flip on every log
-- A bookworm character gains glasses, a scarf and a reading lamp at milestones
+- Skipped a day: the page rips in half dramatically, then gets taped back together when you read
+- Pages logged: the pages flutter and the bookworm munches through them
+- Book finished: the book slams shut in a puff of dust and the bookworm wears a graduation cap
+- Yearly goal hit: books stack into a staircase and the bookworm climbs it
+- Late-night reading: the bookworm in a nightcap with a tiny torch
 
 
 ## AI
